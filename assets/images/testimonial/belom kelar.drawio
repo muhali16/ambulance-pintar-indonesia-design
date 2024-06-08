@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-06-07T02:32:37.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sPP8Hu2FsL_4TgE2zS0n" version="24.4.15" type="device">
+  <diagram name="Page-1" id="NzxWF0BNDjSpqOijV3Y5">
+    <mxGraphModel dx="2193" dy="943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZJhL6A-v88exo0dztBBE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nGi6-DE49_lnKVPha_l9-7" target="ZJhL6A-v88exo0dztBBE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nGi6-DE49_lnKVPha_l9-7" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="59" width="168" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ZJhL6A-v88exo0dztBBE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="562" as="sourcePoint" />
+            <mxPoint x="-217" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-2" value="Mwtode Pengumpulan Data&amp;nbsp;&lt;div&gt;1.Observasi Online&lt;/div&gt;&lt;div&gt;2.Wawancara&lt;/div&gt;&lt;div&gt;3.Studi pustala&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-312" y="507" width="236" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-3" value="Metode Peengembangan Sistem&amp;nbsp;&lt;div&gt;1.Waterfall&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="468" y="512" width="226" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ZJhL6A-v88exo0dztBBE-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="203" y="562" as="sourcePoint" />
+            <mxPoint x="-227" y="752" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJhL6A-v88exo0dztBBE-5" target="ZJhL6A-v88exo0dztBBE-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-5" value="Rumusan masalah :&lt;div&gt;&amp;nbsp;Berdasarkan Identifikasi masalah diatas,Dapat disimpulkan bahwa rumusan masalah dalam penelitian ini adalah bagaimana meningkatkan hasil akurasi pencarian data penjualan dan data unit mobil dengan algoritma Knuth-Morris Pratt dengan cepat&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="420" width="356" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJhL6A-v88exo0dztBBE-7" target="ZJhL6A-v88exo0dztBBE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-7" value="&lt;p style=&quot;margin-bottom: 0.0001pt; text-indent: -18pt; line-height: 18px;&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;Identifikasi Maslah&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0.0001pt; text-indent: -18pt; line-height: 18px;&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;1.Lambatnya proses pencarian data yang menyebabkan keterlambatan dalam pelayanan pelanggan&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0.0001pt; text-indent: -18pt; line-height: 18px;&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;2.Ketidakakuratan Pencarian yang sering menghasilkan data yang tidak akurat atau relevan&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0.0001pt; text-indent: -18pt; line-height: 18px;&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;3.Sistem yang tidak optimal, sehingga mengakibatkan waktu respons yang lama dan beban kerja bagi staff penjualan&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="197" width="682" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJhL6A-v88exo0dztBBE-14" target="ZJhL6A-v88exo0dztBBE-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-14" value="Algoritma Knuth-Morris Pratt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="144" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJhL6A-v88exo0dztBBE-15" target="ZJhL6A-v88exo0dztBBE-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-15" value="1.Analisis&lt;div&gt;2.Implementasi algoritma Knuth-Morris pratt&lt;/div&gt;&lt;div&gt;3.Testing&lt;/div&gt;&lt;div&gt;4.Maintenance&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="71" y="680" width="261" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJhL6A-v88exo0dztBBE-18" target="ZJhL6A-v88exo0dztBBE-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-18" value="Pengujian" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="859" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZJhL6A-v88exo0dztBBE-20" target="ZJhL6A-v88exo0dztBBE-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-20" value="Analisis Hasil" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="943" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJhL6A-v88exo0dztBBE-26" value="Selesai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

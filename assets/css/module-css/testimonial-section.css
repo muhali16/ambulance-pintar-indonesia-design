@@ -31,9 +31,9 @@
 .testimonial-style1-content .bg-color {
   position: absolute;
   top: -120px;
-  left: 120px;
+  left: -1200px;
   bottom: -120px;
-  right: -9999999px;
+  right: -1200px;
   background: var(--thm-primary);
   z-index: -1;
 }
